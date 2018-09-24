@@ -1,7 +1,7 @@
  - Plugin Name: Uppercase Thread Titles
  - Description: Converts thread titles to all uppercase letters.
  - Author: Brian. ( https://community.mybb.com/user-115119.html )
- - Version: 1.1
+ - Version: 1.2
 
 This plugin converts thread titles to all uppercase letters.
 
